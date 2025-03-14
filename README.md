@@ -1,4 +1,4 @@
-## Hi there 👋
+# 你好，我是一名计算机爱好者
 
 <!--
 **LumineQuest/LumineQuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 关于我
+- 🔭学习过C/C++、Python等语言
+- 🌱喜欢研究关于计算机的许多
+- 👯目前在学习学习许多有趣的东西
+  
+## 我的项目
+- 还没拿得出手的项目
+- 所以要继续努力
